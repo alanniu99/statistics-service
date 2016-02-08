@@ -1,4 +1,4 @@
-package com.piggymetrics;
+package com.piggymetrics.statistics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

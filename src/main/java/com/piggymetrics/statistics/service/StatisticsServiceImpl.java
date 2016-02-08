@@ -1,7 +1,7 @@
-package com.piggymetrics.service;
+package com.piggymetrics.statistics.service;
 
-import com.piggymetrics.domain.Account;
-import com.piggymetrics.domain.Statistics;
+import com.piggymetrics.statistics.domain.Account;
+import com.piggymetrics.statistics.domain.Statistics;
 import org.springframework.stereotype.Service;
 
 @Service

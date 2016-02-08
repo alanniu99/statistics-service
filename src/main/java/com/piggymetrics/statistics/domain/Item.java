@@ -1,4 +1,4 @@
-package com.piggymetrics.domain;
+package com.piggymetrics.statistics.domain;
 
 import java.math.BigDecimal;
 

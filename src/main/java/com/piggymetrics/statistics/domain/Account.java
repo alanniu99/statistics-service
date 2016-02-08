@@ -1,4 +1,4 @@
-package com.piggymetrics.domain;
+package com.piggymetrics.statistics.domain;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.core.mapping.Document;

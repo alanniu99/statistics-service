@@ -1,8 +1,8 @@
-package com.piggymetrics.controller;
+package com.piggymetrics.statistics.controller;
 
-import com.piggymetrics.domain.Account;
-import com.piggymetrics.domain.Statistics;
-import com.piggymetrics.service.StatisticsService;
+import com.piggymetrics.statistics.domain.Account;
+import com.piggymetrics.statistics.domain.Statistics;
+import com.piggymetrics.statistics.service.StatisticsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.PathVariable;
